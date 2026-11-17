@@ -359,16 +359,3 @@ Subgroup comparisons may reflect differences in vehicle prices, sample sizes, fe
 
 Results should therefore be interpreted within the context of the available data.
 
-## Project Status
-
-As of November 17, 2026:
-
-- All five project notebooks have been prepared.
-- The model development and feature-selection analyses have been completed.
-- The team confirms that the Ridge model `P1_N4_ridge_selected.pkl` has been added to GitHub.
-- Both large Random Forest models are available as multipart archives through the published GitHub Release.
-- All six numbered archive parts have been confirmed visible by the team.
-- Repository documentation includes model restoration and reproducibility instructions.
-
-**Team DataStars — MSDS565 Predictive Modeling & Analytics**
-
