@@ -6,8 +6,6 @@
 
 ## Team Members
 
-Listed alphabetically by last name:
-
 - Antonio Brown
 - Michael Flanders
 - Justin Irick
